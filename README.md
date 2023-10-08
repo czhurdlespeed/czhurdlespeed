@@ -9,4 +9,4 @@
      - [x] PCEP
      - [x] PCAP
      - [x] DeepLearning.AI's Deep Learning Specializaiton
-     - [ ] Google's TensorFlow Developr Certificate
+     - [ ] Google's TensorFlow Developer Certificate
