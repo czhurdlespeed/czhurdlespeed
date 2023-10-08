@@ -6,7 +6,7 @@
 - I am currently interested in Machine Learning and Artifical Intellgence. I am currently working towards [Google's TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
 - I plan to enter UTK's MBA:MS Computer Science programs in Spring 2024
 -  **Certification RoadMap**
-  - [x] PCEP
-  - [x] PCAP
-  - [x] DeepLearning.AI's Deep Learning Specializaiton
-  - [ ] Google's TensorFlow Developr Certificate
+     - [x] PCEP
+     - [x] PCAP
+     - [x] DeepLearning.AI's Deep Learning Specializaiton
+     - [ ] Google's TensorFlow Developr Certificate
