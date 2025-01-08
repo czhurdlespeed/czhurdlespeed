@@ -1,12 +1,9 @@
 # Calvin Wetzel
+## PhD Computer Science Student
 ## M.S. Computer Science
 ## B.S. Mechanical Engineering, Minor Computer Science at University of Tennessee
 ## UTK's Men's Track and Field | 400mh
+### [Personal Website](https://czhurdlespeed.github.io/WebDevJourney/index.html)
 ### [LinkedIn](https://www.linkedin.com/in/calvinwetzel/) | [Instagram](https://www.instagram.com/calvin_wetzel/)
-- I am currently interested in Machine Learning and Artifical Intellgence. I am currently working towards [Google's TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
--  **Certification RoadMap**
-     - [x] PCEP
-     - [x] PCAP
-     - [x] AWS Cloud Practitioner 
-     - [x] DeepLearning.AI's Deep Learning Specializaiton
-     - [ ] Google's TensorFlow Developer Certificate
+- Machine Learning and Artifical Intellgence. 
+
