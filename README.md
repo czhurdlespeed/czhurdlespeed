@@ -1,5 +1,5 @@
-🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️
-⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧
+🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️ <br>
+⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧 <br>
 # Calvin Wetzel
 
 ## Current Interests
@@ -20,7 +20,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=czhurdlespeed&layout=donut&hide=jupyter%20notebook&langs_count=8&card_width=320" />
 </a>
-🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️
+<br>
+🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️ <br>
 ⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧
 
 
