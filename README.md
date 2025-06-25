@@ -15,11 +15,12 @@
 ### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvinwetzel/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/calvin_wetzel/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=czhurdlespeed&theme=transparent&hide_rank=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=czhurdlespeed&theme=transparent&hide_rank=true&include_all_commits=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=czhurdlespeed&layout=donut&hide=jupyter%20notebook&langs_count=8&card_width=320" />
 </a>
+<br>
 <br>
 🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️ <br>
 ⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧
