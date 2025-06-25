@@ -1,5 +1,8 @@
-<p style="text-align: center;">🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️</p>
-<p style="text-align: center;">⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧</p>
+<div align="center">
+🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️
+<br>
+⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧
+</div>
 
 # 👋 Hey, I’m Calvin Wetzel!
 
@@ -19,7 +22,12 @@ Curious to connect, collaborate, or just want to see if I can run a 400m faster 
 
 ## [Personal Website](https://czhurdlespeed.github.io/WebDevJourney/index.html) 💻
 
-### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvinwetzel/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/calvin_wetzel/)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvinwetzel/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/calvin_wetzel/)
+
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=czhurdlespeed&theme=transparent&hide_rank=true&include_all_commits=true"/>
@@ -29,7 +37,10 @@ Curious to connect, collaborate, or just want to see if I can run a 400m faster 
 </a>
 <br>
 <br>
-<p style="text-align: center;">🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️</p>
-<p style="text-align: center;">⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧</p>
+<div align="center">
+🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️
+<br>
+⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧
+</div>
 
 
