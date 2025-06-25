@@ -1,8 +1,14 @@
 🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️ <br>
 ⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧⬜️🟧 <br>
-# Calvin Wetzel
+# 👋 Hey, I’m Calvin Wetzel!
 
-## Current Interests
+🏃‍♂️💻 **PhD Student-Athlete | Computer Vision Enthusiast | Time Management Ninja**
+
+Welcome to my corner of GitHub! I’m currently juggling life as a PhD Computer Science student at the University of Tennessee, Knoxville, and as a track & field athlete—yes, my sprint speed is only rivaled by my code commits.
+
+By day, I’m pushing the boundaries of computer vision 🖥️👀 at [Oak Ridge National Lab’s Manufacturing Demonstration Facility](https://www.ornl.gov/facility/mdf), where 3D metal printing robots and AI are my lab partners. By night (and sometimes very early mornings), I’m [on the track or in the weightroom](https://utsports.com/sports/track-and-field/roster/calvin-wetzel/20695), competing against the world’s best athletes. If you think balancing research deadlines and race start times is easy, let’s just say my Outlook Calendar deserves a medal. 🏅
+
+Curious to connect, collaborate, or just want to see if I can run a 400m faster than your code compiles? Check out my [LinkedIn](https://www.linkedin.com/in/calvinwetzel/) and let’s chat! 👇
 
 ## Education 📜
 - PhD Computer Science Student
