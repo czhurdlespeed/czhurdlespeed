@@ -5,7 +5,7 @@
 </div>
 
 # 👋 Hey, I’m Calvin Wetzel!
-
+![](https://komarev.com/ghpvc/?username=czhurdlespeed/&color=ff8200&base=200)
 🏃‍♂️💻 **PhD Student-Athlete | Computer Vision Enthusiast | Time Management Ninja**
 
 Welcome to my corner of GitHub! I’m currently juggling life as a PhD Computer Science student at the University of Tennessee, Knoxville, and as a track & field athlete—yes, my sprint speed is only rivaled by my code commits.
